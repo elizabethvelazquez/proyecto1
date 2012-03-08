@@ -73,7 +73,6 @@ if (defined('ENVIRONMENT'))
  *
  */
 	$application_folder = 'application';
-	echo " la aplicacion es: ";
 
 /*
  * --------------------------------------------------------------------
